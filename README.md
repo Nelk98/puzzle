@@ -1,4 +1,5 @@
 # puzzle
 test
-sss
 ssss
+
+sss
